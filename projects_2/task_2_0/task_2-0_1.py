@@ -1,0 +1,1 @@
+print('First name:', 'Lesha', '\nAge:', 18)
