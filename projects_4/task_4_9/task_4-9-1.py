@@ -1,9 +1,9 @@
-x = float(input("Введите число X: "))
-y = float(input("Введите число Y: "))
+x = float(input("Введите число x: "))
+y = float(input("Введите число y: "))
 
 if x > y:
-    max_value = x
+    maxx = x
 else:
-    max_value = y
+    maxx = y
 
-print("Максимальное число:", max_value)
+print("Максимальное число:", maxx)
