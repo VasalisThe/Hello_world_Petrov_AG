@@ -7,4 +7,4 @@ scalar = 0
 for i in range(n):
     scalar = scalar + a[i] * b[i]
 
-print("Скалярное произведение двух векторов:", scalar)
+print("Скалярное произведение:", scalar)
