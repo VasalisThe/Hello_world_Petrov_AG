@@ -3,10 +3,10 @@ b = [4, 5, 6]
 n = len(a)
 
 i = 0
-scalar = 0
+scal = 0
 
 while (i < n):
-    scalar = scalar + a[i] * b[i]
+    scal = scal + a[i] * b[i]
     i = i + 1
 
-print("Скалярное произведение двух векторов:", scalar)
+print("Скалярное произведение:", scal)
